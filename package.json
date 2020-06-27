@@ -1,4 +1,5 @@
 {
+  "homepage":"http://jyochsna.github.io/amisna",
   "name": "react-deploy",
   "version": "0.1.0",
   "private": true,
@@ -11,10 +12,11 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "build": "react-scripts build"
+   
   },
   "eslintConfig": {
     "extends": "react-app"
