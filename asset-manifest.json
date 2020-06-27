@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/amisna/static/css/main.5f361e03.chunk.css",
+    "main.js": "/amisna/static/js/main.118da5eb.chunk.js",
+    "main.js.map": "/amisna/static/js/main.118da5eb.chunk.js.map",
+    "runtime-main.js": "/amisna/static/js/runtime-main.d0d755d2.js",
+    "runtime-main.js.map": "/amisna/static/js/runtime-main.d0d755d2.js.map",
+    "static/js/2.a0c31166.chunk.js": "/amisna/static/js/2.a0c31166.chunk.js",
+    "static/js/2.a0c31166.chunk.js.map": "/amisna/static/js/2.a0c31166.chunk.js.map",
+    "index.html": "/amisna/index.html",
+    "precache-manifest.4bee6a704264245c9fdba7cafc8886d4.js": "/amisna/precache-manifest.4bee6a704264245c9fdba7cafc8886d4.js",
+    "service-worker.js": "/amisna/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/amisna/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a0c31166.chunk.js.LICENSE.txt": "/amisna/static/js/2.a0c31166.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/amisna/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0d755d2.js",
+    "static/js/2.a0c31166.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.118da5eb.chunk.js"
+  ]
+}
